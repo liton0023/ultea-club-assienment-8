@@ -1,0 +1,98 @@
+[
+  {
+    "id": "001",
+    "name": "Acerola – West Indian Cherry",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://food.unl.edu/newsletters/images/physical-activity-adults.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "002",
+    "name": "Apple",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://domf5oio6qrcr.cloudfront.net/medialibrary/2293/l0908b16207233934035.jpg",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "003",
+    "name": "Apricots",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://angletoner.com/wp-content/uploads/2019/09/5-Reasons-Why-Exercise-is-Important-edits.jpg",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "004",
+    "name": "Avacado",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOE8EUc0MqY50acS1rKNKWEJfPDS6eQoF4Mw&usqp=CAU",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "005",
+    "name": "Banana",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://www.shape.com/thmb/xcMppPKHI0J7PuGKeIVDke2tTCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/squat-GettyImages-1004449544-2000-f72d11a72ed84c1885ccbeed1ccaa3c1.jpg",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "006",
+    "name": "Blacberries",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://static.euronews.com/articles/stories/07/40/94/52/1440x810_cmsv2_d7203e61-73a1-5643-bc3e-4fdb566b4dea-7409452.jpg",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "007",
+    "name": "Blackcurrant",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2021/12/physical-therapy-trampoline-Patient-thumb.jpg",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "008",
+    "name": "Blueberries",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3zIzg7JcbybcidLckzkTuO2g2Loz_JCIpg&usqp=CAU",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "009",
+    "name": "Breadfruit",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/07/woman-strong-muscles-push-up-exercise.jpg?quality=82&strip=1",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "010",
+    "name": "Cantaloupe",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://assets.telegraphindia.com/abp/2022/Sep/1662172716_man.jpg",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "011",
+    "name": "Carambola",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://hips.hearstapps.com/hmg-prod/images/fit-woman-doing-battle-rope-exercise-in-the-gym-royalty-free-image-1581178640.jpg",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  },
+  {
+    "id": "012",
+    "name": "Cherimoya",
+    "age": 23,
+    "time": "25 min",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv8JJ-p3ydNk_DCHC9PHQYWuEku5kmgzaI7g&usqp=CAU",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt eius excepturi. Nostrum laboriosam quasi, voluptates necessitatibus omnis eius, excepturi aliquam distinctio quod architecto aspernatur! Sunt fugiat quaerat rerum veritatis?"
+  }
+]

@@ -1,0 +1,25 @@
+.product-info img {
+  width: 100%;
+  border-radius: 20px;
+}
+.product-container {
+  width: 250px;
+  height: 350px;
+  background-color: antiquewhite;
+  border: 2px solid rgb(229, 241, 241);
+  border-radius: 10px;
+  position: relative;
+}
+.product-info p,
+h1 {
+  margin: 20px;
+}
+.product-btn {
+  width: 100%;
+  height: 30px;
+  background-color: rgb(42, 195, 218);
+  border: none;
+  border-radius: 2px;
+  position: absolute;
+  bottom: 0;
+}
