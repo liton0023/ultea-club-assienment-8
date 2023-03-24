@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Product from '../Product/Product';
+import Cart from './Cart/Cart';
 import './Home.css';
 
 const Home = () => {
@@ -12,16 +13,22 @@ useEffect(()=>{
 },[])
 
     return (    
-        <div className='club-container'>
-                <div className='products-container'>
+        <div>
+            <div className='header-section'>
+        <h2>UtRA-Active-club</h2>
+            <h3>Select today’s exercise</h3>
+            </div>
+            <div className='club-container'>       
+                <div className='products-container'>          
 {
     products.map(product=><Product id={product.id} product={product}></Product>)
 }
                 </div>
                 <div className='cart-container'>
-                    <h1>This is card Container</h1>
+                   <Cart></Cart>
                 </div>
             </div>
+        </div>
     );
 };
 

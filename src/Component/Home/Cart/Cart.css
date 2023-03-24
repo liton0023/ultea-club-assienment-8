@@ -1,0 +1,32 @@
+.cart-header img {
+  width: 30%;
+  padding-top: 20px;
+}
+
+.cart-header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-right: 50px;
+  text-align: center;
+}
+.cart-header h3,
+p {
+  margin-right: 90px;
+  text-align: start;
+}
+.personal-info {
+  width: 90%;
+  background-color: rgb(208, 210, 212);
+  margin-left: 15px;
+  border-radius: 5px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0;
+}
+.personal-info p {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 20px;
+  border: 1px solid white;
+  margin-right: 20px;
+}
